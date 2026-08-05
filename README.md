@@ -9,7 +9,6 @@
 Задачи: 
 
 - Разработка [ТЗ](./ar-app-beautyguide/docs/spec.md)
-- Проектирование архитектуры
 - Работа с технологиями дополненной реальности
 
 ### [Агрегатор новостей "Город Говорит"](./news-aggregator-vkontakte/)
@@ -35,7 +34,7 @@
 - Описание пользовательских сценариев по методологии [userstory](./gallery-app/docs/userstory.png)
 - Разработка [ТЗ](./gallery-app/docs/spec.md)
 - Проектирование информационной системы
-  * Моделирование структуры данных ([ER диаграмма](./news-aggregator-vkontakte/docs/ER-diagram.jpg))
-  * Описание бизнес-процесса оплаты подписки по методологии [BPMN] (./gallery-app/docs/bpmn-paysubscribe.png)
+  * Моделирование структуры данных ([ER диаграмма](./gallery-app/docs/ER-diagram.jpg))
+  * [Архитектура серверной части](./gallery-app/docs/backend.png)
+  * Описание бизнес-процесса оплаты подписки по методологии [BPMN](./gallery-app/docs/bpmn-paysubscribe.png)
   * Прототипирование клиентской части
-- Составление сценариев тестирования
