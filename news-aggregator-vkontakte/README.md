@@ -39,6 +39,7 @@ https://github.com/vilkaviik/city_speaks
 - [Документация](./docs/),
 - [Техническое задание](./docs/spec.md),
 - [ER диаграмма](./docs/ER-diagram.jpg),
+- [Диаграмма последовательности](./docs/uml-sequence-diagram.png),
 - [Userflow](./docs/userflow.png),
 - [Пользовательские сценарии](./docs/userstories.png).
 
