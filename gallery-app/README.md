@@ -6,6 +6,7 @@
 
 - [Документация](./gallery-app/docs/),
 - [Техническое задание](./gallery-app/docs/spec.md),
+- [ER схема](./gallery-app/docs/ER-gallery.png),
 - [Пользовательские сценарии](./gallery-app/docs/userstory.png),
 - [BPMN схема процесса оплаты подписки](./gallery-app/docs/bpmn-paysubscribe.png)
 
