@@ -4,8 +4,8 @@
 
 # Структура репозитория
 
-- /docs - документация,
-- /docs/spec - техническое задание,
-- /docs/userstory - пользовательские сценарии,
-- /docs/bpmn-paysubscribe - bpmn схема процесса оплаты пользователем подписки
+- [Документация](./gallery-app/docs/),
+- [Техническое задание](./gallery-app/docs/spec.md),
+- [Пользовательские сценарии](./gallery-app/docs/userstory.png),
+- [BPMN схема процесса оплаты подписки](./gallery-app/docs/bpmn-paysubscribe.png)
 
