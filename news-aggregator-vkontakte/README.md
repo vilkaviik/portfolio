@@ -36,9 +36,10 @@ https://github.com/vilkaviik/city_speaks
 
 ### Структура репозитория 
 
-- docs/ - документация
-- docs/spec - техническое задание
-- docs/userstories - пользовательские сценарии
-- docs/ER - ER схема БД
+- [Документация](./news-aggregator-vkontakte/docs/),
+- [Техническое задание](./news-aggregator-vkontakte/docs/spec.md),
+- [ER диаграмма](./news-aggregator-vkontakte/docs/ER-diagram.jpg),
+- [Userflow](./news-aggregator-vkontakte/docs/userflow.png),
+- [Пользовательские сценарии](./news-aggregator-vkontakte/docs/userstories.png).
 
 
