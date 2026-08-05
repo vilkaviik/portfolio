@@ -34,7 +34,7 @@
 - Описание пользовательских сценариев по методологии [userstory](./gallery-app/docs/userstory.png)
 - Разработка [ТЗ](./gallery-app/docs/spec.md)
 - Проектирование информационной системы
-  * Моделирование структуры данных ([ER диаграмма](./gallery-app/docs/ER-gallery.jpg))
+  * Моделирование структуры данных ([ER диаграмма](./gallery-app/docs/ER-gallery.png))
   * [Архитектура серверной части](./gallery-app/docs/backend.png)
   * Описание бизнес-процесса оплаты подписки по методологии [BPMN](./gallery-app/docs/bpmn-paysubscribe.png)
   * Прототипирование клиентской части
