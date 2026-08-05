@@ -22,6 +22,7 @@
 - Проектирование информационной системы
   * Моделирование структуры данных ([ER диаграмма](./news-aggregator-vkontakte/docs/ER-diagram.jpg))
   * [Архитектура серверной части](./news-aggregator-vkontakte/docs/backend-cityspeaks.png)
+  * [Диаграмма последовательности](./news-aggregator-vkontakte/docs/uml-sequence-diagram.png)
   * Прототипирование клиентской части
 - Разработка и тестирование ИС
 
