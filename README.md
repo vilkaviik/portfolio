@@ -21,7 +21,7 @@
 - Описание пользовательских сценариев по методологии [userstory](./news-aggregator-vkontakte/docs/userstories.png)
 - Проектирование информационной системы
   * Моделирование структуры данных ([ER диаграмма](./news-aggregator-vkontakte/docs/ER-diagram.jpg))
-  * [Архитектура серверной части](./news-aggregator-vkontakte/docs/ER-diagram.md)
+  * [Архитектура серверной части](./news-aggregator-vkontakte/docs/backend-cityspeaks.png)
   * Прототипирование клиентской части
 - Разработка и тестирование ИС
 
@@ -34,7 +34,7 @@
 - Описание пользовательских сценариев по методологии [userstory](./gallery-app/docs/userstory.png)
 - Разработка [ТЗ](./gallery-app/docs/spec.md)
 - Проектирование информационной системы
-  * Моделирование структуры данных ([ER диаграмма](./gallery-app/docs/ER-diagram.jpg))
+  * Моделирование структуры данных ([ER диаграмма](./gallery-app/docs/ER-gallery.jpg))
   * [Архитектура серверной части](./gallery-app/docs/backend.png)
   * Описание бизнес-процесса оплаты подписки по методологии [BPMN](./gallery-app/docs/bpmn-paysubscribe.png)
   * Прототипирование клиентской части
