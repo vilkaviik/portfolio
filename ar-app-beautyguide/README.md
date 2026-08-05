@@ -20,8 +20,8 @@ AR Beauty Guide - это приложение, предназначенное д
 * UI дизайн: Illustrator
 
 ## Структура репозитория
-- [Документация](./ar-app-beautyguide/docs/),
-- [Техническое задание](./ar-app-beautyguide/docs/spec.md),
+- [Документация](./docs/),
+- [Техническое задание](./docs/spec.md),
 
 
 
